@@ -83,8 +83,6 @@ University of South Asia, Lahore
 
 ## Contact 📬  
 - 🌐 [GitHub](https://github.com/imfaisalshehzad)  
-- 🤝 [LinkedIn](https://linkedin.com/in/imfaisalshehzad)  
+- 🤝 [LinkedIn](https://linkedin.com/in/imfaisalshehzad)
 
----
 
-© 2025 Faisal Shehzad. All rights reserved. ✨
